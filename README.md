@@ -1,1 +1,1 @@
-# Amazon_Instrument_Sentiment_Analyzer
+This project aims to analyze customer sentiment expressed in Amazon reviews for musical instruments. By employing Natural Language Processing (NLP) techniques, the project classifies reviews into positive, negative, and neutral categories. This classification provides insights into customer satisfaction, product quality, and overall public opinion regarding different musical instruments sold on Amazon.
